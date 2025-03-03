@@ -53,7 +53,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.katiearose.sobriety.shared"
+    namespace = "app.syfre.syfre.shared"
     compileSdk = 33
     defaultConfig {
         minSdk = 21

@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Sobriety">
         <activity
-            android:name=".activities.Milestones"
+            android:name="app.syfre.syfre.activities.Milestones"
             android:exported="false"
             android:label="@string/milestones">
             <meta-data
@@ -18,7 +18,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.Savings"
+            android:name="app.syfre.syfre.activities.Savings"
             android:exported="false"
             android:label="@string/savings">
             <meta-data
@@ -26,7 +26,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.DailyNotes"
+            android:name="app.syfre.syfre.activities.DailyNotes"
             android:exported="false"
             android:label="@string/daily_notes">
             <meta-data
@@ -34,7 +34,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.Settings"
+            android:name="app.syfre.syfre.activities.Settings"
             android:exported="false"
             android:label="@string/settings">
             <meta-data
@@ -42,7 +42,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.Timeline"
+            android:name="app.syfre.syfre.activities.Timeline"
             android:exported="false"
             android:label="@string/timeline">
             <meta-data
@@ -50,7 +50,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.Summary"
+            android:name="app.syfre.syfre.activities.Summary"
             android:exported="false"
             android:label="@string/summary">
             <meta-data
@@ -58,7 +58,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.Create"
+            android:name="app.syfre.syfre.activities.Create"
             android:exported="false"
             android:label="@string/add_new_addiction">
             <meta-data
@@ -66,7 +66,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.Main"
+            android:name="app.syfre.syfre.activities.Main"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

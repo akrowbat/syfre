@@ -7,7 +7,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.katiearose.sobriety"
+        applicationId = "app.syfre.syfre"
         minSdk = 21
         targetSdk = 33
         versionCode = 22
@@ -50,7 +50,7 @@ android {
     lint {
         disable += listOf("MissingTranslation")
     }
-    namespace = "com.katiearose.sobriety"
+    namespace = "app.syfre.syfre"
 }
 
 dependencies {

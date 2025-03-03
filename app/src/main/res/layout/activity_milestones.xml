@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activities.Milestones">
+    tools:context="app.syfre.syfre.activities.Milestones">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/milestone_list"

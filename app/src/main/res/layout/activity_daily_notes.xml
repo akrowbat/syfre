@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activities.DailyNotes"
+    tools:context="app.syfre.syfre.activities.DailyNotes"
     tools:ignore="UnusedAttribute">
 
     <androidx.recyclerview.widget.RecyclerView
